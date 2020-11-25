@@ -4,7 +4,7 @@ My name is Seele.Clover. Luckly you can find my github page.
 
 To my mind, I am a programmer, a designer and a philosopher. Welcome to discuss these issues to me.
 
-Now I am studying for my bachelor degree of Computer Field (Database) in the university.
+Now I am studying for my bachelor degree of Computer Science (Database) in the university.
 
 <!--
 **seeleclover/seeleclover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
