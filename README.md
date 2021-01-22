@@ -6,6 +6,9 @@ To my mind, I am a programmer, a designer and a philosopher. Welcome to discuss 
 
 Now I am studying for my bachelor degree of Computer Science (Database) in the university.
 
+
+###### Seele.Clover was not just a storyteller, he was a story. And story is resilient, protean, eternal.
+
 <!--
 **seeleclover/seeleclover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
