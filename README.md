@@ -10,13 +10,12 @@ Now I am studying for my bachelor degree of Computer Science (Database) in the u
 ###### Seele.Clover was not just a storyteller, he was a story. And story is resilient, protean, eternal.
 
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=seeleclover&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="stats">
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seeleclover&layout=compact&theme=dark&bg_color=0A0A0A" alt="seeleclover toplang"/>
-<br />
-<br />
-
+<a href="https://github.com/seeleclover">
+  <img align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=seeleclover&include_all_commits=true&count_private=true&show_icons=true&line_height=27&bg_color=30,9796f0,fbc7d4&title_color=fff&text_color=fff&icon_color=fff" />
+</a>
+<a href="https://github.com/seeleclover">
+  <img align="center" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seeleclover" />
+</a>
 
 
 <!--
