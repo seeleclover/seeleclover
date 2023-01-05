@@ -17,6 +17,9 @@ Now I am studying for my bachelor degree of Computer Science (Database) in the u
   <img align="center" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seeleclover" />
 </a>
 
+### Development Platform
+[![](https://img.shields.io/badge/Windows-11-0078d4?style=flat-square&logo=windows11&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-11)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 <!--
 **seeleclover/seeleclover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
