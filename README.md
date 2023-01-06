@@ -17,8 +17,13 @@ Now I am studying for my bachelor degree of Computer Science (Database) in the u
   <img align="center" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seeleclover" />
 </a>
 
+
 ### Development Platform
-[![](https://img.shields.io/badge/Windows-11-0078d4?style=flat-square&logo=windows11&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-11)
+
+[![Windows 11](https://img.shields.io/badge/Windows-11-0078d4?style=flat-square&logo=windows11&logoColor=fff)](https://www.microsoft.com/windows/get-windows-11/)
+[![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu-22.04-e95420?style=flat-square&logo=ubuntu&logoColor=fff)](https://ubuntu.com/)
+[![Kali-Linux 2022.03](https://img.shields.io/badge/Kali%20Linux-2022.03-557c94?style=flat-square&logo=kali-linux&logoColor=fff)](https://www.kali.org/)
+
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 <!--
