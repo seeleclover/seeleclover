@@ -29,7 +29,7 @@ Now I am studying for my bachelor degree of Computer Science (Database) in the u
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5c2d91?style=flat-square&logo=visual-studio&logoColor=fff)](https://visualstudio.microsoft.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-167dff?style=flat-square&logo=intellij-idea&logoColor=fff)](https://www.jetbrains.com/idea/)
 
-### Language I often use with
+### Language & Tools I often use with
 
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
