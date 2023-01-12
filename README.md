@@ -29,6 +29,23 @@ Now I am studying for my bachelor degree of Computer Science (Database) in the u
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5c2d91?style=flat-square&logo=visual-studio&logoColor=fff)](https://visualstudio.microsoft.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-167dff?style=flat-square&logo=intellij-idea&logoColor=fff)](https://www.jetbrains.com/idea/)
 
+
+### Things I learned in university
+
+<p>
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=fff" />
+  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=fff" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-5583A2?style=flat-square&logo=openjdk&logoColor=fff" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff" />
+</p>
+<p>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff" />
+  <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=fff" />
+  <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=fff" />
+  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=fff" />
+</p>
+
+
 ### Language & Tools I often use with
 
 <p>
@@ -45,11 +62,7 @@ Now I am studying for my bachelor degree of Computer Science (Database) in the u
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=fff" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-<p>
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=fff" />
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=fff" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff" />
-</p>
+
 <!--
 **seeleclover/seeleclover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
