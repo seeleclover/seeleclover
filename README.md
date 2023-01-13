@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Seele.Clover. Luckly you can find my github page.
+My name is Seele.Clover. Welcome to my personal GitHub Page!
 
 To my mind, I am a programmer, a designer and a philosopher. Welcome to discuss these issues to me.
 
