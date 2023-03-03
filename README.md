@@ -16,6 +16,10 @@ Now I am studying for my bachelor degree of Computer Science (Database) in the u
   <img align="center" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seeleclover" />
 </a>
 
+<a href="https://github.com/seeleclover">
+  <img align="center" alt="top languages" src="https://streak-stats.demolab.com/?user=seeleclover&theme=tokyonight-duo&locale=zh_Hans" />
+</a>
+
 
 ### Development Platform I often use with
 
