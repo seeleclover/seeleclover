@@ -22,7 +22,7 @@ Now I am studying for my bachelor degree of Computer Science (Database) in the u
 
 ### Development Platform I often use with
 
-[![Windows 10](https://img.shields.io/badge/Windows-10-0078d6?style=flat-square&logo=windows&logoColor=fff)](https://www.microsoft.com/windows/get-windows-10/)
+[![Windows 10](https://img.shields.io/badge/Windows-10-0078d6?style=flat-square&logo=windows10&logoColor=fff)](https://www.microsoft.com/windows/get-windows-10/)
 [![Windows 11](https://img.shields.io/badge/Windows-11-0078d4?style=flat-square&logo=windows11&logoColor=fff)](https://www.microsoft.com/windows/get-windows-11/)
 [![Debian 12](https://img.shields.io/badge/Debian-12-a81d33?style=flat-square&logo=debian&logoColor=fff)](https://www.debian.org/)
 [![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu-22.04-e95420?style=flat-square&logo=ubuntu&logoColor=fff)](https://ubuntu.com/)
@@ -32,6 +32,7 @@ Now I am studying for my bachelor degree of Computer Science (Database) in the u
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=fff)](https://code.visualstudio.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5c2d91?style=flat-square&logo=visual-studio&logoColor=fff)](https://visualstudio.microsoft.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-167dff?style=flat-square&logo=intellij-idea&logoColor=fff)](https://www.jetbrains.com/idea/)
+[![PyCharm](https://img.shields.io/badge/PyCharm-1fbba1?style=flat-square&logo=pycharm&logoColor=fff)](https://www.jetbrains.com/pycharm/)
 
 
 ### Things I learned in university
